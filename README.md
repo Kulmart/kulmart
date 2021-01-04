@@ -18,8 +18,10 @@ This system runs on the following:
 
 #### Database setup
 
-- From your project root, import the database or run migrations use the commands: ```sh
-php artisan migrate```
+- From your project root, import the database or run migrations use the commands: 
+```sh
+php artisan migrate
+```
 Then run DB Seeder
 ```sh 
 php artisan db:seed
